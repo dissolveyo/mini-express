@@ -1,0 +1,16 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todos-vanilla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.6"
+  }
+}
